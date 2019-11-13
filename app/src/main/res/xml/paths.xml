@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--    외부저장소의 공용영역 -->
+    <external-files-path
+        name="external_files"
+        path="."/>
+
+    <!--    외부저장소의 앱전용영역 -->
+    <external-path
+        name="external"
+        path="."/>
+
+</paths>
